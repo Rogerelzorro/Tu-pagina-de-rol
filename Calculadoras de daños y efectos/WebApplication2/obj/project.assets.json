@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlumnoM\\Documents\\GitHub\\Tu-pagina-de-rol\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoM\\Documents\\GitHub\\Tu-pagina-de-rol\\Calculadoras de daños y efectos\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\AlumnoM\\Documents\\GitHub\\Tu-pagina-de-rol\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\AlumnoM\\Documents\\GitHub\\Tu-pagina-de-rol\\Calculadoras de daños y efectos\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\AlumnoM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlumnoM\\Documents\\GitHub\\Tu-pagina-de-rol\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoM\\Documents\\GitHub\\Tu-pagina-de-rol\\Calculadoras de daños y efectos\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AlumnoM\\AppData\\Roaming\\NuGet\\NuGet.Config"
