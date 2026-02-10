@@ -34,52 +34,9 @@ class Program
             {
                 if (dañopuro == 10)
                 {
-                    int dañofinal = Math.Round(dañopuro*10/100);
+                    // redondear el resultado
+                    int dañofinal = Math.Floor(dañopuro*10/100);
                     Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
-                }    
-                if (dañopuro == 20)
-                {
-                    int dañofinal = dañopuro*20/100;
-                }    
-                if (dañopuro == 30)
-                {
-                    int dañofinal = dañopuro*30/100;
-                }    
-                if (dañopuro == 40)
-                {
-                    int dañofinal = dañopuro*40/100;
-                }    
-                if (dañopuro == 50)
-                {
-                    int dañofinal = dañopuro*50/100;
-                }    
-                if (dañopuro == 60)
-                {
-                    int dañofinal = dañopuro*60/100;
-                }    
-                if (dañopuro == 70)
-                {
-                    int dañofinal = dañopuro*70/100;
-                }    
-                if (dañopuro == 80)
-                {
-                    int dañofinal = dañopuro*80/100;
-                }    
-                if (dañopuro == 90)
-                {
-                    int dañofinal = dañopuro*90/100;
-                }    
-                if (dañopuro == 100)
-                {
-                    int dañofinal = dañopuro*100/100;
-                }    
-                if (dañopuro == 105)
-                {
-                    int dañofinal = dañopuro*105/100;
-                }    
-                if (dañopuro == 70)
-                {
-                    int dañofinal = dañopuro*110/100;
                 }    
             }
             Console.WriteLine ("El daño recibido por el objetivo del ataque es " + dañofinal);
