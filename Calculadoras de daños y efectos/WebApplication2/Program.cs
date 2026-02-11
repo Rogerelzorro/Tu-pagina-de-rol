@@ -3,12 +3,10 @@ int Ataquefinal = int.Parse(Console.ReadLine());
 Console.WriteLine ("Introduzca la defensa (Habilidad de esquiva o parada + resultado del dado)");
 int Defensafinal = int.Parse(Console.ReadLine());
 int Resultado = Ataquefinal - Defensafinal;
-
 if (Resultado <= 0)
 {
     Console.WriteLine ("El atacante a fallado el ataque, el defensor tiene derecho a un contraatacaque");
 }
-
 if (Resultado > 0)
 {
     Console.WriteLine ("El atacante a acertado el ataque. Ahora se calculara el daño recibido");
@@ -4064,7 +4062,7 @@ if (Resultado > 0)
                 Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
             }    
         }
-        if (Resultado == 200)
+        if (Resultado >= 200)
         {
             if (dañopuro == 10)
             {
