@@ -231,6 +231,645 @@ if (Resultado > 0)
                 Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
             }    
         }
+        if (Resultado == 20)
+        {
+            if (dañopuro == 10)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 20)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 30)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 40)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 50)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 60)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 70)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 80)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 90)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 100)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 105)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 110)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 115)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 120)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 125)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 130)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 135)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 140)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 145)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 150)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 155)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 160)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 165)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 170)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 175)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 180)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 185)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 190)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 195)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 200)
+            {
+                double Redondeo = dañopuro*20/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+        }
+        if (Resultado == 30)
+        {
+            if (dañopuro == 10)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 20)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 30)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 40)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 50)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 60)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 70)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 80)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 90)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 100)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 105)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 110)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 115)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 120)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 125)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 130)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 135)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 140)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 145)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 150)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 155)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 160)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 165)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 170)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 175)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 180)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 185)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 190)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 195)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 200)
+            {
+                double Redondeo = dañopuro*30/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+        }
+        if (Resultado == 40)
+        {
+            if (dañopuro == 10)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 20)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 30)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 40)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 50)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 60)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 70)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 80)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 90)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 100)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 105)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 110)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 115)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 120)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 125)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 130)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 135)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 140)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 145)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 150)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 155)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 160)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 165)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 170)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 175)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 180)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 185)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 190)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 195)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+            if (dañopuro == 200)
+            {
+                double Redondeo = dañopuro*40/100;
+                Console.WriteLine(Math.Floor(Redondeo));
+                double dañofinal = Redondeo - Armadura;
+                Console.WriteLine ("El daño final recibido por el defensor es " + dañofinal);
+            }    
+        }
 }
 
 
